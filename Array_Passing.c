@@ -1,7 +1,7 @@
 /*Passing array to a function*/
 #include<stdio.h>
 #include<stdlib.h>
-int NumToChar(int arr[]);
+int NumToChar(int r[]);
 int main()
 {
     int arr[8]={97,98,99,100,101,102,103,104},i;
