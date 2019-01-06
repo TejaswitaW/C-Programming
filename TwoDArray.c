@@ -5,6 +5,7 @@ int main()
 {
 
     int a[3][3]={3,5,7,9,11,13,15,17,19},i=0,j=0;
+    printf("Printing array elements\n");
     for(i=0;i<3;i++)
     {
         for(j=0;j<3;j++)
