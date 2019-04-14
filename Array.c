@@ -4,7 +4,7 @@
 
 int main()
 {
-    int marks[5],i,total;
+    int marks[5],i,total=0;
     printf("Enter marks of five subjects of a student\n");
     for(i=0;i<5;i++)
     {

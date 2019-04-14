@@ -1,0 +1,2 @@
+Hello File by writing using fprintf function
+ Tell me information about you
